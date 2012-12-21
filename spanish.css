@@ -1,0 +1,52 @@
+table.vocab tbody tr {
+  height: 4em;
+}
+
+.keyword {
+  text-transform: uppercase;
+}
+tt.phonetics {
+  font-size: 1.5em;
+}
+span.wrap1 {
+  position: absolute;
+}
+span.strong-high {
+  position: relative;
+  top: -0.8em;
+  font-weight: bold;
+}
+span.strong-medium {
+  position: relative;
+  top: -0.4em;
+  font-weight: bold;
+}
+span.strong-low {
+  font-weight: bold;
+}
+span.weak-high {
+  position: relative;
+  top: -1.3em;
+}
+span.weak-medium {
+  position: relative;
+  top: -0.9em;
+}
+span.weak-low {
+  position: relative;
+  top: -0.5em;
+}
+span.right-dot {
+  position: relative;
+  top: -0.4em;
+  left: -0.33em;
+}
+span.under-v {
+  position: relative;
+  top: 0.9em;
+}
+span.under-comma {
+  position: relative;
+  top: 0.3em;
+  left: 0.1em;
+}

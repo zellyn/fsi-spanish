@@ -1,0 +1,5 @@
+* Regex replace with function
+'abc'.replace(/a.*/, function(x) { return '[' + x + ']'; })
+
+* Regex replace in document
+document.body.innerHTML = document.body.innerHTML.replace('foo', 'bar')
